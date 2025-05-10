@@ -82,7 +82,6 @@ sudo ./MAIN.out
 
 * [V4L2 API Documentation (Linux Kernel)](https://www.kernel.org/doc/html/latest/userspace-api/media/v4l/v4l2.html)
 * [OpenCV VideoCapture Docs](https://docs.opencv.org/4.x/d8/dfe/classcv_1_1VideoCapture.html)
-* Cypress FX3 USB controller: [EZ-USB FX3](https://www.infineon.com/cms/en/product/universal-serial-bus/usb-peripheral-controllers/usb-30-peripheral-controllers/cypress-ez-usb-fx3/)
 
 ---
 
