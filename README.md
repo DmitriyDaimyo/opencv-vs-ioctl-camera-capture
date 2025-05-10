@@ -73,8 +73,8 @@ sudo ./MAIN.out
 
 | Method       | Output Format               | Reliability                      | Notes |
 | ------------ | --------------------------- | -------------------------------- | ----- |
-| OpenCV       | ![Text](output/opencvv.png) | ❌ Incorrect shape, no errors     |       |
-| V4L2 + ioctl | ![Text](output/ioctl.png)   | ✅ Fully correct low-level access |       |
+| OpenCV       | ![opencv](outputs/opencv.png) | ❌ Incorrect shape, no errors     |       |
+| V4L2 + ioctl | ![ioctl](outputs/ioctl.png)   | ✅ Fully correct low-level access |       |
 
 ---
 
